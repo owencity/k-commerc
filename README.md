@@ -20,9 +20,9 @@
 ### 3. 개발 환경
 
 #### 프론트엔드
-- HTML, CSS, JavaScript, Thymeleaf
+- Thymeleaf
 #### 백엔드
-- Spring Boot, JDK 17, PostgreSQL , JPA
+- Spring Boot, JDK 17, PostgreSQL , JPA , Docker
 #### 웹서버
 - NginX , AWS EC2 
 #### 버전 및 이슈 관리
