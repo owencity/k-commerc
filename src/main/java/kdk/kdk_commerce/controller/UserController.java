@@ -1,6 +1,5 @@
 package kdk.kdk_commerce.controller;
 
-import kdk.kdk_commerce.entity.UserEntity;
 import kdk.kdk_commerce.model.User;
 import kdk.kdk_commerce.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/v1")
-public class MainController {
+public class UserController {
 
     @Autowired private UserService userService;
 
